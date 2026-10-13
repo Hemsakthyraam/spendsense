@@ -1,0 +1,37 @@
+transaction_id,date,description,category,amount,payment_method
+TXN-2001,2026-03-01,Blinkit Instant Grocery Delivery,Groceries,850.00,UPI
+TXN-2002,2026-03-02,Blue Tokai Specialty Coffee,Dining,340.00,UPI
+TXN-2003,2026-03-03,Namma Metro Smart Card Recharge,Transportation,500.00,UPI
+TXN-2004,2026-03-04,Jio Fiber High Speed Broadband,Utilities,1179.00,Net Banking
+TXN-2005,2026-03-05,McDonald's Quick Lunch,Dining,420.00,UPI
+TXN-2006,2026-03-06,Zepto Daily Essentials,Groceries,680.00,UPI
+TXN-2007,2026-03-07,Rapido Bike Taxi Commute,Transportation,120.00,UPI
+TXN-2008,2026-03-08,Adani Gas Monthly Pipeline Bill,Utilities,890.00,Net Banking
+TXN-2009,2026-03-09,Decathlon Sports Gear & Shoes,Shopping,3200.00,Credit Card
+TXN-2010,2026-03-10,Dominos Gourmet Pizza Night,Dining,780.00,UPI
+TXN-2011,2026-03-11,Apollo 247 Diagnostic Blood Tests,Healthcare,1850.00,Debit Card
+TXN-2012,2026-03-12,Spencer's Retail Hypermarket,Groceries,4120.00,Debit Card
+TXN-2013,2026-03-13,Fastag Highway Toll Auto Recharge,Transportation,1000.00,UPI
+TXN-2014,2026-03-14,Myntra Summer Fashion Apparel,Shopping,2450.00,Credit Card
+TXN-2015,2026-03-15,MakeMyTrip Goa Flight Tickets,Travel,9800.00,Credit Card
+TXN-2016,2026-03-16,Taj Exotica Goa Luxury Beach Resort,Travel,75000.00,Credit Card
+TXN-2017,2026-03-17,Goa Beachside Shack Seafood Lunch,Dining,1850.00,UPI
+TXN-2018,2026-03-18,VIP Exclusive Champagne Dinner,Dining,35000.00,Credit Card
+TXN-2019,2026-03-19,Uber Goa Premier Return Ride,Transportation,1200.00,UPI
+TXN-2020,2026-03-20,MilkBasket Dairy & Fresh Vegetables,Groceries,540.00,UPI
+TXN-2021,2026-03-21,Nykaa Premium Skincare & Cosmetics,Shopping,2890.00,UPI
+TXN-2022,2026-03-22,Cult.Fit Yoga & Fitness Class,Healthcare,1500.00,Debit Card
+TXN-2023,2026-03-23,Bescom City Electric Bill,Utilities,1950.00,Net Banking
+TXN-2024,2026-03-24,Subway Healthy Turkey Sub,Dining,320.00,UPI
+TXN-2025,2026-03-25,Nature's Basket Organic Pulses,Groceries,2150.00,UPI
+TXN-2026,2026-03-26,Indian Oil Petrol Station Tank Full,Transportation,3800.00,Credit Card
+TXN-2027,2026-03-27,Croma Electronics - Sony Bravia 65 OLED TV,Shopping,145000.00,Credit Card
+TXN-2028,2026-03-28,BookMyShow PVR Gold Class,Entertainment,1400.00,UPI
+TXN-2029,2026-03-29,Wow Momo Steamed Dumplings Dinner,Dining,380.00,UPI
+TXN-2030,2026-03-30,BigBasket Weekly Grocery Restock,Groceries,3450.00,UPI
+TXN-2015,2026-03-15,MakeMyTrip Goa Flight Tickets,Travel,9800.00,Credit Card
+TXN-2031,2026-03-31,Udemy Full Stack Python Course,Education,649.00,UPI
+TXN-2032,2026-04-01,HealthifyMe Nutritionist Consultation,Healthcare,1200.00,UPI
+TXN-2033,2026-04-02,Starbucks Caramel Macchiato,Dining,395.00,UPI
+TXN-2034,2026-04-03,Amazon Basics Ergonomic Office Chair,Shopping,6499.00,Credit Card
+TXN-2035,2026-04-04,Urban Company Deep Home Cleaning,Utilities,2299.00,UPI
