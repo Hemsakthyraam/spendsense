@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+spendsense.db
+backend/spendsense.db
+
+# Environment variables & secrets
+.env
+backend/.env
+!.env.example
+!backend/.env.example
+
+# Node.js & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.npm
+npm-debug.log*
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
